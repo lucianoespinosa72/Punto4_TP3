@@ -1,0 +1,14 @@
+{
+  "name": "complejo-deportivo",
+  "version": "1.0.0",
+  "description": "Sistema de gestión para un Complejo Deportivo implementado en TypeScript puro siguiendo estrictas reglas de POO",
+  "main": "src/Main.ts",
+  "scripts": {
+    "start": "tsx src/Main.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.0.0"
+  }
+}
